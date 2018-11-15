@@ -14,9 +14,11 @@ The best thing of this app is that you can give a rate of food that you like.
 # User Guide
 #### Landing Page
 When deploying the Rainbow Food application, users will go to the page. The landing page informs users what Rainbow Food application is all about.
+![](images/landing-page.png)
 
 #### Sign Up Page
 This page will allow user to make their account to use this application.
+![]()
 
 #### Sign In Page
 User can login with their account.
