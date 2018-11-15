@@ -18,13 +18,15 @@ When deploying the Rainbow Food application, users will go to the page. The land
 
 #### Sign Up Page
 This page will allow user to make their account to use this application.
-![]()
+![](images/signup-page.png)
 
 #### Sign In Page
 User can login with their account.
+![](images/signin-page.png)
 
 #### Sign Out Page
 User can know they sign out successfully.
+![](images/signout-page.png)
 
 #### User Profile
 User can provide their personal information about themselves.
@@ -131,10 +133,13 @@ The goal of this milestone was to determine the general direction of the project
 ### Mockup Screenshots
 
 #### Landing Page
+![](images/landing-page.png)
 
 #### User Home Page
 
+
 #### User Profile
+
 
 #### Add Vendor
 
@@ -150,5 +155,7 @@ Project Board M3: [Project Board M3]
 
 # Meet the Team
 - [Yu Ting Hsu](https://yuting7.github.io)
+- [Jonathan Oba](https://jonathanoba.github.io)
+- [Tyler Asato](https://tylerz1443.github.io)
 
 
