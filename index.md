@@ -7,16 +7,37 @@
 * [Meet the Team](#meet-the-team)
 
 # About Rainbow Food
-
+Rainbow Food is an application that can help students what food they want on any given day at the University of Hawaii at Manoa.
+This app allows you to know what food will be available today and what is the top picks at campus, and it also provide the locations.
+The best thing of this app is that you can give a rate of food that you like.
 
 # User Guide
 #### Landing Page
-#### User Profile
-#### Top Picks
-#### Vendors
-#### Add Vendor
-#### Vendor Homepage
+When deploying the Rainbow Food application, users will go to the page. The landing page informs users what Rainbow Food application is all about.
 
+#### Sign Up Page
+This page will allow user to make their account to use this application.
+
+#### Sign In Page
+User can login with their account.
+
+#### Sign Out Page
+User can know they sign out successfully.
+
+#### User Profile
+User can provide their personal information about themselves.
+
+#### Top Picks
+This provide the most popular meals of the day.
+
+#### Vendors
+User can easily view the vendor's hours of operation and location on campus.
+
+#### Add Vendor
+Vendors can sign up and edit their information, which help user know where they are and available time of the day.
+
+#### Vendor Homepage
+The vendor homepage provide vendors add and post up their food item of the day. They can also delete the food if they wanted to.
 
 # Developer Guide
 
