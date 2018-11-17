@@ -147,7 +147,7 @@ The goal of this milestone was to determine the general direction of the project
 
 # Links
 
-Application: [Application](http://rainbow-food.meteorapp.com/#/) <br>
+Application: [Application](http://rainbowfood.meteorapp.com/#/) <br>
 View Project on GitHub: [View Project on GitHub](https://github.com/rainbow-food/rainbow-food) <br>
 Project Board M1: [Project Board M1](https://github.com/rainbow-food/rainbow-food/projects/1) <br>
 Project Board M2: [Project Board M2] <br>
