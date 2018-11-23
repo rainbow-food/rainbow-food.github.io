@@ -33,6 +33,11 @@ User can provide their personal information about themselves.
 
 #### Top Picks
 This provide the most popular meals of the day.
+![](images/top-picks.png)
+
+#### Food Available
+This provides what food vendors are offer.
+![](images/food-available.png)
 
 #### Vendors
 User can easily view the vendor's hours of operation and location on campus.
@@ -150,12 +155,10 @@ The goal of this milestone was to determine the general direction of the project
 Application: [Application](http://rainbowfood.meteorapp.com/#/) <br>
 View Project on GitHub: [View Project on GitHub](https://github.com/rainbow-food/rainbow-food) <br>
 Project Board M1: [Project Board M1](https://github.com/rainbow-food/rainbow-food/projects/1) <br>
-Project Board M2: [Project Board M2] <br>
+Project Board M2: [Project Board M2](https://github.com/rainbow-food/rainbow-food/projects/2)<br>
 Project Board M3: [Project Board M3]
 
 # Meet the Team
 - [Yu Ting Hsu](https://yuting7.github.io)
 - [Jonathan Oba](https://jonathanoba.github.io)
 - [Tyler Asato](https://tylerz1443.github.io)
-
-
