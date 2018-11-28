@@ -132,23 +132,21 @@ Once running, you can view the application at [http://localhost:3000.](http://lo
 Progress on the Simply Delish is divided into four milestones. Each milestone is a progression in the development process.
 
 ## Milestone 1: Create Visual Mockups for Pages
-
 The goal of this milestone was to determine the general direction of the project as well as determine what pages are needed and how they will all interact with each other at an abstract level.
 
 ### Mockup Screenshots
-
 #### Landing Page
 ![](images/landing-page.png)
-
-#### User Home Page
-
-
 #### User Profile
+![](images/user_page_temp.png)
 
 
-#### Add Vendor
-
-
+### Milestone 2
+### Mockup Screenshots
+#### Top Picks Page
+![](images/top-picks.png)
+#### Food Available Page
+![](images/food-available.png)
 
 # Links
 
@@ -156,7 +154,7 @@ Application: [Application](http://rainbowfood.meteorapp.com/#/) <br>
 View Project on GitHub: [View Project on GitHub](https://github.com/rainbow-food/rainbow-food) <br>
 Project Board M1: [Project Board M1](https://github.com/rainbow-food/rainbow-food/projects/1) <br>
 Project Board M2: [Project Board M2](https://github.com/rainbow-food/rainbow-food/projects/2)<br>
-Project Board M3: [Project Board M3]
+Project Board M3: [Project Board M3](https://github.com/rainbow-food/rainbow-food/projects/3)
 
 # Meet the Team
 - [Yu Ting Hsu](https://yuting7.github.io)
