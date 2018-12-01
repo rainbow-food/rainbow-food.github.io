@@ -148,6 +148,11 @@ The goal of this milestone was to determine the general direction of the project
 #### Food Available Page
 ![](images/food-available.png)
 
+### Milestone 3
+### Add Vendor 
+### Home Pages
+
+
 # Links
 
 Application: [Application](http://rainbowfood.meteorapp.com/#/) <br>
