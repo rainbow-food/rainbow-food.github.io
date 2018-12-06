@@ -11,10 +11,19 @@ Rainbow Food is an application that can help students what food they want on any
 This app allows you to know what food will be available today and what is the top picks at campus, and it also provide the locations.
 The best thing of this app is that you can give a rate of food that you like.
 
+# Links
+
+Application: [Application](http://rainbowfood.meteorapp.com/#/) <br>
+View Project on GitHub: [View Project on GitHub](https://github.com/rainbow-food/rainbow-food) <br>
+Project Board M1: [Project Board M1](https://github.com/rainbow-food/rainbow-food/projects/1) <br>
+Project Board M2: [Project Board M2](https://github.com/rainbow-food/rainbow-food/projects/2)<br>
+Project Board M3: [Project Board M3](https://github.com/rainbow-food/rainbow-food/projects/3)
+
+
 # User Guide
 #### Landing Page
 When deploying the Rainbow Food application, users will go to the page. The landing page informs users what Rainbow Food application is all about.
-![](images/landing-page.png)
+![](images/landing-page-final.png)
 
 #### Sign Up Page
 This page will allow user to make their account to use this application.
@@ -30,6 +39,7 @@ User can know they sign out successfully.
 
 #### User Profile
 User can provide their personal information about themselves.
+![](images/profile.png)
 
 #### Top Picks
 This provide the most popular meals of the day.
@@ -44,12 +54,10 @@ User can easily view the vendor's hours of operation and location on campus.
 
 #### Add Vendor
 Vendors can sign up and edit their information, which help user know where they are and available time of the day.
+![](images/add-vendor.png)
 
-#### Vendor Homepage
-The vendor homepage provide vendors add and post up their food item of the day. They can also delete the food if they wanted to.
 
 # Developer Guide
-
 This section will walk you through the steps to get the project running locally.
 
 ## Installation
@@ -149,17 +157,20 @@ The goal of this milestone was to determine the general direction of the project
 ![](images/food-available.png)
 
 ### Milestone 3
-### Add Vendor 
-### Home Pages
+### Landing Page
+![](images/landing-page-final.png)
+### Add Profile 
+![](images/add-profile.png)
+### Profile
+![](images/profile.png)
+### Edit Profile
+![](images/edit-profile.png)
+### List Profile
+![](images/list-profiles.png)
+### Add Vendor
+![](images/add-vendor.png)
 
 
-# Links
-
-Application: [Application](http://rainbowfood.meteorapp.com/#/) <br>
-View Project on GitHub: [View Project on GitHub](https://github.com/rainbow-food/rainbow-food) <br>
-Project Board M1: [Project Board M1](https://github.com/rainbow-food/rainbow-food/projects/1) <br>
-Project Board M2: [Project Board M2](https://github.com/rainbow-food/rainbow-food/projects/2)<br>
-Project Board M3: [Project Board M3](https://github.com/rainbow-food/rainbow-food/projects/3)
 
 # Meet the Team
 - [Yu Ting Hsu](https://yuting7.github.io)
